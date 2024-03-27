@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terminalkid&show_icons=true&locale=en&theme=dracula" alt="terminalkid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terminalkid&" alt="terminalkid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terminalkid&theme=dracula" alt="terminalkid" /></p>
 
 
 
@@ -30,21 +30,10 @@
 
 
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/TerminalKid/TerminalKid/output/snake.svg" alt="Snake animation" />
 
 ###
 
-###
-
-
-###
-
-
-###
 
 <!--
 **TerminalKid/TerminalKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
