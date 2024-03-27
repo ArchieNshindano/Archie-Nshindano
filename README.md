@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Archie Nshindano but here on github you can call me TerminalKid 
 
-I'm passionate about making my life easier and the lives of others , And it just so happens Programing and robotics are tools for the job
+My goal is making my life easier and the lives of others so naturally I love Programing and robotics 
 
 - 🔭 I’m currently working on an app I can personally use to store my memroised Bible verses and python code to automate making facebook posts
   
