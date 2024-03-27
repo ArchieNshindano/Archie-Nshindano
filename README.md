@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Archie Nshindano but call me TerminalKid 
+### Hi there 👋 My Name is Archie Nshindano but you can call me TerminalKid 
 -------------------------------------------------------------------------------------
 
 My goal is making my life easier and the lives of others, so naturally I love Programing and robotics 
