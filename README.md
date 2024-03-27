@@ -10,9 +10,9 @@ My goal is making my life easier and the lives of others so naturally I love Pro
   
 - 🤔 If you have similar interests, I would like to learn from you
   
+- 📫 How to reach me: archienshindano@gmail.com
+
 - ⚡ Fun fact: Nitrogen tried to flirt with oxygen and she said NO
-  
-- 📫 How to reach me: archienshindano@gmail.com 
 
 <!--
 **TerminalKid/TerminalKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
