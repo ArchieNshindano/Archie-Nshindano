@@ -4,7 +4,7 @@
 My goal is making my life easier and the lives of others, so naturally I love Programing and robotics 
 -------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on an app I can personally use to store my memroised Bible verses and python code to automate making facebook posts inorder to advertise a certain product
+- 🔭 I’m currently working on an app to store my Bible verses and python code to automate making facebook posts inorder to advertise a certain product
   
 - 🌱 I’m currently learning a tone of things
   
