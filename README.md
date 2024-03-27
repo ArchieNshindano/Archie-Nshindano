@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Archie Nshindano but you can call me TerminalKid 
 -------------------------------------------------------------------------------------
 
-My goal is making my life and others easier, so naturally I love Programing and robotics 
+My goal is making my life and that of others easier, so I'm passionate about Programing and robotics 
 -------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on an app to store my Bible verses and python code to automate facebook posts for advertising
