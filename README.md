@@ -2,6 +2,7 @@
 -------------------------------------------------------------------------------------
 
 My goal is making my life easier and the lives of others so naturally I love Programing and robotics 
+-------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on an app I can personally use to store my memroised Bible verses and python code to automate making facebook posts
   
