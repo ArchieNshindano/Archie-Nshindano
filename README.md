@@ -1,4 +1,5 @@
 ### Hi there 👋 My Name is Archie Nshindano but here on github you can call me TerminalKid 
+-------------------------------------------------------------------------------------
 
 My goal is making my life easier and the lives of others so naturally I love Programing and robotics 
 
