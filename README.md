@@ -3,9 +3,13 @@
 I'm passionate about making my life easier and the lives of others , And it just so happens Programing and robotics are tools for the job.
 
 - 🔭 I’m currently working on an app I can personally use to store my memroised Bible verses, the catch is , it has to be beautiful than what's out there
+  
 - 🌱 I’m currently learning a tone of things
+  
 - 🤔 If you have similar interests, I would like to learn from you
+  
 - ⚡ Fun fact: Nitrogen tried to flirt with oxygen and she said NO
+  
 - 📫 How to reach me: archienshindano@gmail.com 
 
 <!--
