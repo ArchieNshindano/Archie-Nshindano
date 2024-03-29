@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **archienshindano@gmail.com**
 - 
-- ⚡ Fun fact: Nitrogen tried to flirt with oxygen, she said ##NO
+- ⚡ Fun fact: Nitrogen tried to flirt with oxygen, she said NO
 ###
 
 <h2 align="left">I code with and use</h2>
