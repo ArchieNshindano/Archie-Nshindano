@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **a tone of things**
 
 - 📫 How to reach me **archienshindano@gmail.com**
-- 
+  
 - ⚡ Fun fact: Nitrogen tried to flirt with oxygen, she said NO
 ###
 
