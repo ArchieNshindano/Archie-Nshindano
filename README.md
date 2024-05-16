@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">I'm into programming and Robotics, a tech enthusiast from zambia</h3>
+<h3 align="left">I'm into programming and Robotics</h3>
 
 - 🌱 I’m currently learning **a tone of things**
 
