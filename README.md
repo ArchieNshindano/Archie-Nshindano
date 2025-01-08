@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey 👋 What's up? I'm Archie Nshindano </h1> 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.fmA-1aYPINQAdM7jYzGZ6QAAAA?rs=1&pid=ImgDetMain" alt="Hello GIF" height="300" width="350">
+  <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAd/code-coding.gif" alt="Hello GIF" height="300" width="350">
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ArchieNshindano&label=Profile%20views&color=0e75b6&style=flat" alt="ArchieNshindano" /> 
