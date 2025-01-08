@@ -40,14 +40,14 @@ jobs:
 
     steps:
 
-    - name: generate snake.gif
-      uses: Platane/snk/gif-only@v3
+    - name: generate snake.svg
+      uses: Platane/snk/svg-only@v3
           
 
       with:
        
          github_user_name: ${{ github.repository_owner }}
-         outputs: dist/snake.gif?palette=github-dark
+         outputs: dist/snake.svg?palette=github-dark
 
 
     - name: push snake.svg to the output branch
