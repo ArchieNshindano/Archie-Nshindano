@@ -60,6 +60,7 @@ jobs:
           # GitHub username to generate the animation for
 
           github_user_name: ${{ github.repository_owner }}
+          branch: ${{ github.ref }}
 
 
 
@@ -88,6 +89,8 @@ jobs:
         with:
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          branch: ${{ github.ref }}
 
           publish_dir: ./dist
 
